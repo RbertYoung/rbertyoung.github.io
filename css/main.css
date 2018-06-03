@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #70ffd6;
+  background: #ffe2dd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2664,5 +2664,8 @@ embed {
   display: none;
 }
 .site-title {
+  text-transform: uppercase;
+}
+article .post-title {
   text-transform: uppercase;
 }
