@@ -5,4 +5,5 @@ tags:
 ---
 {% blockquote &nbsp;&nbsp;- Bob Marley %}
 &nbsp;&nbsp;Live the life you love, love the life you live.
+&nbsp;&nbsp;&nbsp;&nbsp;Live the life you love, love the life you live.
 {% endblockquote %}
