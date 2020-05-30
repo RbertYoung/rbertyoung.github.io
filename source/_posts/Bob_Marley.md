@@ -1,5 +1,5 @@
 ---
-title: bob marley note
+title: Bob Marley
 date: 2018-06-10 02:40:42
 tags:
 ---
