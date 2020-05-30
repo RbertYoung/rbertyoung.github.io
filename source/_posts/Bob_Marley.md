@@ -1,9 +1,9 @@
 ---
-title: Bob Marley
+title: Bob Marley's
 date: 2018-06-10 02:40:42
 tags:
+- notes
+- 2018
 root: notes
 ---
-{% blockquote &nbsp;&nbsp;- Bob Marley %}
-&nbsp;&nbsp;Live the life you love, love the life you live..
-{% endblockquote %}
+>   &nbsp;&nbsp;Live the life you love, love the life you live.
