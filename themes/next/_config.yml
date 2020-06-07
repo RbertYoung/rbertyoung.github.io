@@ -57,14 +57,14 @@ footer:
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
-    name: fa fa-heart
+    name: fa fa-ban
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
-    color: "#ff0000"
+    color: "#b3b3b3"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright:
+  copyright: BEE
 
   # Powered by Hexo & NexT
   powered: false
@@ -117,7 +117,6 @@ darkmode: true
 # External url should start with http:// or https://
 menu:
 #  home: / || fa fa-home
-
   home: /home/ || fa fa-home
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
