@@ -4,7 +4,7 @@ date: 2020-06-08 23:41:45
 tags:
 - 2020
 - Frank
-root:
+root: notes
 ---
 >   Some things never are.
 >   And we were.
