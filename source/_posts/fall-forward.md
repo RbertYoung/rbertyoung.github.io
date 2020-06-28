@@ -12,7 +12,7 @@ Nelson Mandela said there is no passion to be found playing small
 And settling for a life that’s less than the one you’re capable of living
 I’m sure people have told you to make sure you have something to fall back on
 Make sure you got something to fall back on, honey
-But I never understood that concept having something to fall back on
+But I never understood that concept having something to fall back on<!-- more -->
 If I’m going to fall, I don’t want to fall back on anything
 Except my faith. I want to fall forward. I figured at least this way I’ll see what I’m going to hit
 Fall forward this is what I mean
