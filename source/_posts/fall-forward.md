@@ -6,6 +6,7 @@ tags:
 - 2019
 root: notes
 ---
+Revert test
 I found that nothing in life is worthwhile. Unless you take risks
 Nothing
 Nelson Mandela said there is no passion to be found playing small
