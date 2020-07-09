@@ -6,9 +6,20 @@ tags:
 - Frank
 root: notes
 ---
+
 >   Some things never are.
 >   And we were.
 >   I won&#39;t forget you.
 >   I won&#39;t forget the summer.
 >   I&#39;ll remember who I was when I met you.
->   
+>
+>
+<!--
+<script>
+    var pwd = window.prompt("Password required");
+    if (+pwd !== 123) {
+        alert("Wrong password, redirect...");
+        window.location.href = window.location.origin;
+    }
+</script>)
+-->

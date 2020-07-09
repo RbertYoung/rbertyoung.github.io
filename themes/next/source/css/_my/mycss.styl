@@ -10,6 +10,10 @@
   }
 }
 
+.hidden {
+  display: none;
+}
+
 .headband {
   display: none;
 }
@@ -19,9 +23,44 @@
 }
 
 .post-meta-item:not(:first-of-type) {
-    display: none;
+  display: none;
+}
+
+.post-body {
+  img {
+    //margin-bottom: 0;
+  }
+
+  br {
+    +mobile() {
+      //display: none;
+      line-height: 0;
+    }
+  }
 }
 
 .center {
   text-align: center;
+}
+
+
++mobile() {
+
+  .post-body {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+
+  .posts-expand .post-meta {
+    margin-bottom: 30px;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .f-14 {
+    font-size: 14px;
+  }
 }
