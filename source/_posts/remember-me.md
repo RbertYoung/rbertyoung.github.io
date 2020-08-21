@@ -8,4 +8,5 @@ tags:
 root: notes
 ---
 <div style="padding: 0 20px;">![awakening](awakening.jpg)</div>
+<!-- more -->
 <p class="center">How many whens do ya remember?</p>
