@@ -6,4 +6,4 @@ tags:
 - 2019
 root: notes
 ---
-![6](6.jpg)
+<div style="padding: 0 20px;">![6](6.jpg)</div>
