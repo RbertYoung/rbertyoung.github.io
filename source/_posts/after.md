@@ -9,7 +9,7 @@ root: notes
 ---
 <div style="padding: 0 20px;">![7_mile](7_mile.jpg)</div>
 <!-- more -->
-Like a sweet melody
+<p class="center">Like a sweet melody
 Memories of your love still linger on inside of me
 A recurring dream
 Visions of you return night after night so hauntingly
@@ -67,4 +67,4 @@ That I just cannot walk away
 My heart, baby I miss you
 I was a fool to let you walk away
 I realize girl
-After we said goodbye
+After we said goodbye</p>
