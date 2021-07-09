@@ -86,3 +86,13 @@ deploy:
   #repo: https://github.com/RbertYoung/rbertyoung.github.io.git
   repo: git@github.com:RbertYoung/rbertyoung.github.io.git
   branch: master
+
+# Security
+encrypt: # hexo-blog-encrypt
+  silent: true
+#  theme: xray
+#  password: fuckyouman
+  abstract: Please enter password to access this article.
+  message: Please enter password.
+  wrong_pass_message: Oh, this is an invalid password. Check and try again, please.
+  wrong_hash_message: Oh, these decrypted content cannot be verified, but you can still have a look.
