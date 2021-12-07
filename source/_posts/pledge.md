@@ -7,7 +7,11 @@ tags:
 - 90s
 root: notes
 ---
-<h2 class="center">Boyz II Men - My Pledge</h2>
+<h2 class="center pb-20 mb-30">Boyz II Men - My Pledge</h2>
+<div style="padding: 0 20px;">![pledge](pledge.jpeg)</div>
+<!-- more -->
+{% aplayer "My Pledge" "Boyz II Men" "pledge.mp3" "cover.jpeg" %}
+<hr style="margin: 20px 0;"/>
 <div class="center">
 What is it to you if I told you
 Everything that I ever made me think about you
@@ -19,7 +23,6 @@ And I never let you know when I’m tired
 And my pride won’t let you know when I’m weak
 If I told you everything that my soul couldn’t handle
 It'd be pretty damn foolish of me
-<!-- more -->
 [Chorus]
 So I’m trying harder
 To show you how I’m feeling inside
