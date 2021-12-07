@@ -10,7 +10,7 @@ root: notes
 <h2 class="center pb-20 mb-30">Boyz II Men - My Pledge</h2>
 <div style="padding: 0 20px;">![pledge](pledge.jpeg)</div>
 <!-- more -->
-{% aplayer "My Pledge" "Boyz II Men" "pledge.mp3" "cover.jpeg" %}
+{% aplayer "My Pledge" "Boyz II Men" "my_pledge.mp3" "cover.jpeg" %}
 <hr style="margin: 20px 0;"/>
 <div class="center">
 What is it to you if I told you
